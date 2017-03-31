@@ -1,3 +1,5 @@
+### 此规范参考百度代码规范，鸣谢百度相关技术组合相关同学
+
 This repository contains the specifications.
 
 
